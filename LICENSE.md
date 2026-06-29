@@ -1,4 +1,4 @@
-# 
+# Ligero LogicFlow descargador. Descarga e instala con soporte comunitario y actualizaciones automáticas — rápido, seguro y fácil de usar.
 
 
 
